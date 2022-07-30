@@ -2,7 +2,7 @@
 ### WellDone 
 #### Make .CSV from GeoTiff for Node Aide - Allow to know the ordered bounds for each layer from a EPSG:3857 
 
-- Make WKT geometry POLYGON from image raster - Ordrer : Top left, Bottom Lest, Bottom Right, Top Right, Top left
+- Make WKT geometry POLYGON from image raster - Ordrer : Top left, Bottom Left, Bottom Right, Top Right, Top left
 - Generate HideNSeek.js
 - Generate geotiff path
 - Generate geotiff link
